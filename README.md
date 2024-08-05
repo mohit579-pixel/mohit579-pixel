@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohiy Khandelwal</h1>
+<h1 align="center">Hi 👋, I'm Mohit Khandelwal</h1>
 <h3 align="center">A passionate Full-Stack & AI&ML Developer</h3>
 
 - 📫 How to reach me **mohitkhandelwal579@gmail.com**
